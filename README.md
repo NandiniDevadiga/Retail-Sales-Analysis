@@ -10,20 +10,21 @@ This project combines Python (Google Colab) and Power BI to analyze and forecast
 
 ## 📂 Repository Structure
 
+```plaintext
 Retail-Sales-Analysis-Project/
 │
 ├── notebooks/
-│ └── retail_sales_forecast.ipynb # Colab notebook for data cleaning + forecasting
+│   └── retail_sales_forecast.ipynb     # Colab notebook for data cleaning + forecasting
 │
 ├── data/
-│ ├── retail_sales_data.csv # Input sales data
-│ └── sales_forecast.csv # Forecast output
+│   ├── retail_sales_data.csv           # Input sales data
+│   └── sales_forecast.csv              # Forecast output
 │
 ├── powerbi/
-│ └── retail_sales_dashboard.pbix # Power BI dashboard
+│   └── retail_sales_dashboard.pbix     # Power BI dashboard
 │
-└── README.md # Project documentation
-
+└── README.md                           # Project documentation
+```
 
 ## 🚀 How to run
 
